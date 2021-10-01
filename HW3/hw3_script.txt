@@ -1,0 +1,11 @@
+preprocession:
+    lebal_encode
+    noisy data: SVM 
+    missing value: 1. linear regression
+    data imbalance: imblearn
+
+learning:
+    splitting data: cross validation
+
+prediction:
+    using test.csv
